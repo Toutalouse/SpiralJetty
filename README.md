@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # szurubooru
 
 Szurubooru is an image board engine inspired by services such as Danbooru,
@@ -48,3 +49,6 @@ Post view:
 ## License
 
 [GPLv3](LICENSE.md).
+=======
+# SpiralJetty
+>>>>>>> 5a7b2039a98d1d3e1b4dadb18cb47f14b8919679
